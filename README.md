@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a computer engineering student, deeply passionate about learning new stuff every day!
 
 <!--
 **saniavill/saniavill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
