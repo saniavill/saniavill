@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my github
 I am a computer engineering student, deeply passionate about learning new stuff every day!
 
 <!--
