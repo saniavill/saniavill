@@ -1,5 +1,12 @@
-## Welcome to my github
-I am a computer engineering student, deeply passionate about learning new stuff every day!
+### Welcome to my github
+## I am a computer engineering student, deeply passionate about Machine Learning, Data Science, and Software Engineering.
+***I am currently working on:***
+- A Pandas/Numpy full beginner's guide for everyone who's eager about Data Science and is starting off with said libraries.
+***I am currently learning:***
+- Data analysis and visualization
+- Machine learning fundamentals
+# Contact me at [Email](saniafornow@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sania-latifi-afshar-49000831a/)
+
 
 <!--
 **saniavill/saniavill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
