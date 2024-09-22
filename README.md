@@ -5,7 +5,7 @@
 ***I am currently learning:***
 - Data analysis and visualization
 - Machine learning fundamentals
-# Contact me at [Email](saniafornow@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sania-latifi-afshar-49000831a/)
+## Contact me at [Email](saniafornow@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sania-latifi-afshar-49000831a/)
 
 
 <!--
