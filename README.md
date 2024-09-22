@@ -1,10 +1,10 @@
 ## Welcome to my github
-### I am a computer engineering student, deeply passionate about Machine Learning, Data Science, and Software Engineering.
+### I am a Computer Engineering student, deeply passionate about Machine Learning, Data Science, and Software Engineering.
 - ***I am currently working on:***
 1. A Pandas/Numpy full beginner's guide for everyone who's eager about Data Science and is starting off with said libraries.
 - ***I am currently learning:***
-1. Data analysis and visualization
-2. Machine learning fundamentals
+1. Data Analysis and Visualization
+2. Machine Learning fundamentals
 
 ### Contact me at [Email](saniafornow@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sania-latifi-afshar-49000831a/)
 
