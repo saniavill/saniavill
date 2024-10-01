@@ -6,7 +6,7 @@
 1. Data Analysis and Visualization
 2. Machine Learning fundamentals
 
-### Contact me at [Email](saniafornow@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sania-latifi-afshar-49000831a/)
+### Contact me via [Email](saniafornow@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sania-latifi-afshar-49000831a/)
 
 
 <!--
