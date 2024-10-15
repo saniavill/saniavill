@@ -1,7 +1,7 @@
 ## Welcome to my github
 ### I am a Computer Engineering student, deeply passionate about Machine Learning, Data Science, and Software Engineering.
 - ***I am currently working on:***
-1. A Pandas/Numpy full beginner's guide for everyone who's eager about Data Science and is starting off with said libraries.
+1. A Pandas full beginner's guide for everyone who's eager about Data Science and is starting off with said libraries. First chapter available [here](https://github.com/saniavill/pandas-full-beginner-guide/blob/main/The%20Basics/The%20Full%20Guide%20to%20Pandas%20-%20The%20Basics%201.1.ipynb)
 - ***I am currently learning:***
 1. Data Analysis and Visualization
 2. Machine Learning fundamentals
